@@ -185,11 +185,3 @@ We welcome contributions to enhance this project! Here’s how you can contribut
    Open a pull request to merge your changes into the main branch.
 
 ---
-
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This extended **README.md** file now covers the key sections needed for users to understand and navigate the project, as well as provide setup and usage instructions. Let me know if you'd like to add anything else!
