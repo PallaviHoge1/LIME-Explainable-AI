@@ -1,0 +1,10 @@
+# List of dependencies and packages required 
+Flask
+pandas
+lime
+scikit-learn
+matplotlib
+joblib
+Werkzeug
+Jinja2
+notebook

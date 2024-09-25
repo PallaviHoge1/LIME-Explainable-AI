@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIME Explanation</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>LIME Explanation</h1>
+        <div class="explanation-box">
+            <!-- Assuming explanation HTML is inserted here -->
+            {{ explanation|safe }}
+        </div>
+        <a href="{{ url_for('index') }}" class="btn secondary">Back to Home</a>
+    </div>
+</body>
+</html>
